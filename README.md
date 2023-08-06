@@ -1,4 +1,10 @@
-### Hi there 👋
+### Reach me at:
+
+<a href="https://www.linkedin.com/in/mtalhakhalil">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"; alt="Linkedin">
+</a>
+<br />
+<br />
 
 <!--
 **TalhaKhalil/TalhaKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
